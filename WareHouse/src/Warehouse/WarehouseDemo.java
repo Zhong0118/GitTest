@@ -46,6 +46,7 @@ public class WarehouseDemo {
         
 
         System.out.println("This is testing of github");
+	System.out.println("This is update haihaihai");
        
     }
 
